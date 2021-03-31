@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ker7
+- 👀 I’m interested in Harmony, Growth and Optimistm
+- 🌱 I’m currently learning Clang, App development, Music production and Order.
+- 💞️ I’m looking to collaborate on Awareness, Data Visualizations.
+- 📫 You can reach me via kert.mottus@gmail.com or fb:: Kert Mõttus
