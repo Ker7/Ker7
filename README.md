@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Ker7
-- 👀 I’m interested in Harmony, Growth and Optimistm
+- 👀 I’m interested in Change, Learning, Harmony and Optim(al)ism.
 -    My Code Babies:
 -    1) Time Direction Management | Energy Focusing Helperwheel for Ultra-Open people like myself (LaravelPHP)
 -    2) 50+ of game/game mechanics prototypes written in GameMaker Engine (it's where I entered coding)
--    3) To emphasize i. so far alone have I finished a Pong clone and a conversational game (48h gamejam) (I even came to study C atm and came to pull my C bank from here and saw the update possibility for the profile README.md file which seems fun and imporant somehow too, but my C studies suffer...)
-- 🌱 I’m currently learning Clang, App development, Music production and Order.
+-    3) To emphasize the point one, so far  have I finished a Pong game and a conversation-game (at a 48h gamejam)
+-    4) Websites on Wordpress working with Custom Theme Design.
+- 🌱 I’m currently learning Clang, App development, Music production and Flow in general.
 - 💞️ I’m looking to collaborate on Awareness & Data Visualizations.
 - 📫 You can reach me via kert.mottus@gmail.com or ::fb:Kert Mõttus
