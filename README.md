@@ -1,4 +1,4 @@
-- 👋 I’m @Ker7 or Kert Mõttus
+- 👋 I’m @Ker7 or Kert Mõttus (aka: kert78, kertkuri, Kaalsak299, Egoless, consoul, sincryptics, Akin Matters)
 
 /* Pseudo-code start here: */
 - protected void *kerts_life(Family, Social, Code, Music, Health, Creation, Moderation, Administration);
