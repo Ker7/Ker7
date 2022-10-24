@@ -10,7 +10,6 @@
 -    1) **(tdm_*)** "Doti" Life GPS / TimeDirectionManager / Universal Project Management | Energy Focusing 'helperwheel for Ultra-Open people like myself (PHPLaravel)
 -    2) **(gd_*)** 50+ of all kinds of game prototypes written in GameMaker Language (This is how I entered the programming worlds..)
 -    3) **(wp_*)** Websites with Wordpress. Creating Custom Design images into a coded theme.
-
 - 🌱 I’m currently learning/doing Parenting, Fullstack development & Music production
 - 💞️ I’m looking to collaborate on Awareness tools.
 - 📫 You can reach me via kert.mottus@gmail.com or ::fb:Kert Mõttus
